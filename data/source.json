@@ -1,0 +1,30 @@
+{
+  "orgs": [
+    {
+      "id": "o1",
+      "industry": "software",
+      "size": "small",
+      "eligible": 1,
+      "enabled": "2026-01-03"
+    },
+    {
+      "id": "o2",
+      "industry": "manufacturing",
+      "size": "mid",
+      "eligible": 1,
+      "enabled": "2026-02-10"
+    }
+  ],
+  "events": [
+    {
+      "org": "o1",
+      "day": "2026-01-05",
+      "calls": 2
+    },
+    {
+      "org": "o2",
+      "day": "2026-02-11",
+      "calls": 0
+    }
+  ]
+}
